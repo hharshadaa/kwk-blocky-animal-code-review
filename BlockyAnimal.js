@@ -1,5 +1,6 @@
 // ColoredPoint.js (c) 2012 matsuda
 // Vertex shader program
+// Self-review: animation logic
 var VSHADER_SOURCE =`
   attribute vec4 a_Position;
   uniform mat4 u_ModelMatrix;
