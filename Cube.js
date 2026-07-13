@@ -1,3 +1,5 @@
+//kwk code review
+
 class Cube{
   constructor() {
     this.type='cube';
