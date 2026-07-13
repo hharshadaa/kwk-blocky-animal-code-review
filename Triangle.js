@@ -1,6 +1,7 @@
  //drawTriangle([0, 0.5, -0.5, -0.5, 0.5, -0.5]);
   //drawTriangle([0.8, 0.9, .7, .8, .8, .7]);
   //drawTriangle([0.0, 0.0, .5, 0, .5, .5]);
+//self review code kwk
 class Triangle{
   constructor() {
     this.type='triangle';
