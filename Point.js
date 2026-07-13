@@ -1,3 +1,5 @@
+/kwk code review
+
 class Point{
   constructor() {
     this.type='point';
